@@ -12,7 +12,7 @@ namespace MYTestApp
         {
             int x1 = 10;
             int x2 = 20;
-            int sum = x1 + x2;
+            var sum = x1 + x2;
             return sum;
         }
     }
